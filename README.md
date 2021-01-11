@@ -1,4 +1,5 @@
-#Discord Webhook IP Grabber
+Discord Webhook IP Grabber
+
 When it runs it sends your ip and location to a discord webhook of your choice. This program was made for educational purposes only.
 
 For it to run correctly you have to download Python and a coding software (i suggest Visual Studio Code) After you have downloaded python, go to Command Prompt (Cmd) and type: 
